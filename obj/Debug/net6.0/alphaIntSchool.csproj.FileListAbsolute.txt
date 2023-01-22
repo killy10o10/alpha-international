@@ -1,0 +1,15 @@
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\bin\Debug\net6.0\alphaIntSchool.exe
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\bin\Debug\net6.0\alphaIntSchool.deps.json
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\bin\Debug\net6.0\alphaIntSchool.runtimeconfig.json
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\bin\Debug\net6.0\alphaIntSchool.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\bin\Debug\net6.0\alphaIntSchool.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.csproj.AssemblyReference.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.AssemblyInfoInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.AssemblyInfo.cs
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.csproj.CoreCompileInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\refint\alphaIntSchool.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\alphaIntSchool.genruntimeconfig.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\alphaIntSchool\obj\Debug\net6.0\ref\alphaIntSchool.dll
